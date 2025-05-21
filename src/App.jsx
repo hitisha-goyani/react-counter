@@ -18,7 +18,7 @@ function App() {
    
         {/* <button onClick={() => setCount((count) => count + 1)}>
          click</button> */}
-         <button onClick={handaleCount}>click</button>
+         <button onClick={handaleCount}>Count</button>
 
 
        
